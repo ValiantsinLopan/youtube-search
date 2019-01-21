@@ -1,1 +1,2 @@
-Test repository for youtube-client task
+## YouTube Client on Vanilla JS
+https://valiantsinlopan.github.io/youtube-search/
